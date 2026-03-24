@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Marconi Lima
 
-🚀 Desenvolvedor | Python | SQL 
+🚀 Desenvolvedor | Python | SQL | API
 💻 Focado em backend e desenvolvimento web  
 📍 Recife, Pernambuco - Brasil  
 
