@@ -56,4 +56,4 @@ Atuar como desenvolvedor para aplicar meus conhecimentos em projetos reais e evo
 ## 📫 Contato
 📞 (81) 985703041
 📧 marconi.junior97@gmail.com  
-🔗 LinkedIn: nkedin.com/in/marconi-limma-/
+🔗 LinkedIn: linkedin.com/in/marconi-limma-/
