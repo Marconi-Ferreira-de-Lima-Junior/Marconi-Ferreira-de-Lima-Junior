@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Marconi Lima
 
-<!--
-**Marconi-Ferreira-de-Lima-Junior/Marconi-Ferreira-de-Lima-Junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor | Python | SQL 
+💻 Focado em backend e desenvolvimento web  
+📍 Recife, Pernambuco - Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Atualmente estou desenvolvendo projetos práticos com foco em backend, utilizando Python, Django e Bibliotecas API.
+
+Tenho experiência com:
+- Desenvolvimento de sistemas web
+- Estruturação de banco de dados
+- Lógica de programação aplicada a projetos reais
+- API's
+
+---
+
+## 🚀 Projetos em destaque
+
+🔹 Sistema de PDV para hotel  
+🔹 Sistema de PDV para barbearia
+🔹 E-commerce para brechó  
+🔹 Análise de dados com Python  
+
+---
+
+## 🛠️ Tecnologias
+
+- Python
+- Django
+- HTML & CSS
+- SQL
+- Git & GitHub
+
+---
+
+## 📈 Em evolução
+
+Atualmente aprofundando conhecimentos em:
+- Django
+- FastAPI
+- Boas práticas de desenvolvimento
+- Estruturação de sistemas
+
+---
+
+## 🎯 Objetivo
+
+Atuar como desenvolvedor para aplicar meus conhecimentos em projetos reais e evoluir profissionalmente.
+
+---
+
+## 📫 Contato
+📞 (81) 985703041
+📧 marconi.junior97@gmail.com  
+🔗 LinkedIn: nkedin.com/in/marconi-limma-/
